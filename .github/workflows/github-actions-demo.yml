@@ -13,6 +13,4 @@ jobs:
     
     steps:
     - uses: actions/checkout@v3
-
-    - name: print Hello Word
-      run: node index.js
+    - uses: ./

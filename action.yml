@@ -1,0 +1,7 @@
+name: 'Hello World'
+description: 'hello to the team!'
+author: 'Saad ALAHYANE <s.alahyane@groupeonepoint.com>'
+
+runs:
+  using: 'node12'
+  main: 'index.js'
